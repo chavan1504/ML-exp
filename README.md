@@ -13,9 +13,9 @@ exp5 : #Apply Boosting Algorithm on Adult Census Income Dataset and analyze the 
 exp7: Apply Dimensionality Reduction on Adult Census Income Dataset and analyze the performance of the model
 
 exp6: Apply appropriate Unsupervised Learning Technique on the Wholesale Customers Dataset
-pip install ucimlrepo
-python -m pip install ucimlrepo
-pip show ucimlrepo
-python exp6.py
+# pip install ucimlrepo
+# python -m pip install ucimlrepo
+# pip show ucimlrepo
+# python exp6.py
 
 
